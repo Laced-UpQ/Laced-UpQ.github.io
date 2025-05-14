@@ -1,0 +1,12 @@
+header {
+    margin: 0%;
+    text-align: center;
+    padding: 0.4%;
+    text-decoration: white;
+}
+
+#indexbody {
+    background-image: url('Headerbckground.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
