@@ -1,10 +1,9 @@
 header {
     margin: 0%;
     padding: 0.4%;
-    color: white;
     text-align: center;
+    color: white;
 }
-
 #indexbody {
     background-image: url('Headerbckground.png');
     background-size: 100%;
@@ -12,8 +11,8 @@ header {
 }
 ul {
     list-style-type: none;
-    justify-content: center;
     display: flex;
+    justify-content: center;
 }
 li a {
     display: block;
