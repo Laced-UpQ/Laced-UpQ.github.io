@@ -33,3 +33,14 @@ li a:hover {
     background-color: lightblue;
     color: black;
 }
+#WitteNikes {
+    margin-top: 4%;
+    margin-left: 2%;
+    background-color: rgb(109, 163, 167);
+    width: 20%;
+    padding: 7px;
+    border-radius: 12px;
+}
+#WitteNikes img {
+    width: 100%;
+}
