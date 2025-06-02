@@ -37,10 +37,63 @@ li a:hover {
     margin-top: 4%;
     margin-left: 2%;
     background-color: rgb(109, 163, 167);
-    width: 20%;
+    width: 21%;
     padding: 7px;
     border-radius: 12px;
+    border: 3px;
+    border-color: black;
 }
 #WitteNikes img {
     width: 100%;
+    border-radius: 12px;
+}
+#roodzwartenikes {
+    margin-top: 4%;
+    margin-left: 2%;
+    background-color: rgb(109, 163, 167);
+    width: 21%;
+    padding: 7px;
+    border-radius: 12px;
+    border: 3px;
+    border-color: black;
+}
+#roodzwartenikes img {
+    width: 100%;
+    border-radius: 10px;
+    height: 75%;
+}
+#Producten {
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+#Blackstonewit {
+    margin-top: 4%;
+    margin-left: 2%;
+    background-color: rgb(109, 163, 167);
+    width: 21%;
+    padding: 7px;
+    border-radius: 12px;
+    border: 3px;
+    border-color: black;
+}
+#Blackstonewit img {
+    width: 100%;
+    height: 75%;
+    border-radius: 10px;
+}
+#Skecherswit {
+     margin-top: 4%;
+    margin-left: 2%;
+    background-color: rgb(109, 163, 167);
+    width: 21%;
+    padding: 7px;
+    border-radius: 12px;
+    border: 3px;
+    border-color: black;
+}
+#Skecherswit img{
+    width: 100%;
+    border-radius: 10px;
+    height: 75%;
 }
