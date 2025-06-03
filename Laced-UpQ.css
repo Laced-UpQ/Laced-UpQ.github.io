@@ -5,35 +5,35 @@ header {
     color: white;
 }
 #indexbody {
-    background-image: url('Headerbckground.png');
+    background-image: url('Headerbckground.png'); /*onze header achtergrond*/
     background-size: 100%;
     background-repeat: no-repeat;
 }
 ul {
-    list-style-type: none;
+    list-style-type: none;/*zorgt er voor da onze nav balk er goed uit ziet*/
     display: flex;
     justify-content: center;
 }
 li a {
-    display: block;
+    display: block; /* de title*/
     text-decoration: none;
     color: white;
     padding: 9px;
     font-size: 25px;
 }
 h1 {
-    font-size: 60px;
+    font-size: 60px; /* zorgt er voor dat onze text iets groter is*/
     margin: 10px;
 }
 h1:hover {
-    background-color: lightblue;
+    background-color: lightblue;/* zorgt er voor dat als je er over heen gaat dat het veranderd*/
     color: black;
 }
 li a:hover {
     background-color: lightblue;
     color: black;
 }
-#WitteNikes {
+#WitteNikes { /*style voor ons eerste poroduct*/
     margin-top: 4%;
     margin-left: 2%;
     background-color: rgb(109, 163, 167);
@@ -43,11 +43,11 @@ li a:hover {
     border: 3px;
     border-color: black;
 }
-#WitteNikes img {
+#WitteNikes img { /* style voor het plaatje*/
     width: 100%;
     border-radius: 12px;
 }
-#roodzwartenikes {
+#roodzwartenikes { /* stuyle voor ons 2e product*/
     margin-top: 4%;
     margin-left: 2%;
     background-color: rgb(109, 163, 167);
@@ -67,7 +67,7 @@ li a:hover {
     height: auto;
     justify-content: center;
 }
-#Blackstonewit {
+#Blackstonewit { /* style voor nog een product*/
     margin-top: 4%;
     margin-left: 2%;
     background-color: rgb(109, 163, 167);
@@ -82,7 +82,7 @@ li a:hover {
     height: 75%;
     border-radius: 10px;
 }
-#Skecherswit {
+#Skecherswit { /* style voor nog ee product*/
      margin-top: 4%;
     margin-left: 2%;
     background-color: rgb(109, 163, 167);
